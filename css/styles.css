@@ -32,10 +32,9 @@ body {
 .content {
     text-align: center;
     color: #F7F9F9;
+	
 }
-#gapIssue {
-    padding-top: 50px;
-}
+
 .about {
     background-color: #0B2027;
     text-align: center;
@@ -58,7 +57,7 @@ hr {
 #title {
     /*font-family: 'Lato', sans-serif; */
     font-family: "LoveloBlack", sans-serif;
-    padding-top: 150px;
+    padding-top: 30vh;
     font-size: 7vmax;
 }
 #description {
@@ -101,6 +100,11 @@ hr {
     color: #F7F9F9;
     text-align: center;
 }
+
+.smoothScroll {
+	margin-top: 5vh;	
+}
+
 #about-text {
     margin-left: 100px;
     margin-right: 100px;
