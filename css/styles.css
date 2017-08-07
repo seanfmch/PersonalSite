@@ -19,7 +19,6 @@ body {
 	background-size: cover;
 	background-attachment: fixed;
     height: 100%;
-    background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 @media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
@@ -60,11 +59,11 @@ hr {
     /*font-family: 'Lato', sans-serif; */
     font-family: "LoveloBlack", sans-serif;
     padding-top: 150px;
-    font-size: 100px;
+    font-size: 7vmax;
 }
 #description {
     font-family: "LoveloBlack", sans-serif;
-    font-size: 50px;
+    font-size: 3.5vmax;
     text-align: center;
     font-weight: bold;
 }
